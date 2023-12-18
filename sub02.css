@@ -1,0 +1,199 @@
+*{
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+    list-style-type: none;
+}
+a:link{color: black;}
+a:visited{color: black;}
+a:hover{color: #C9CED5;}
+a:active{color: black;}
+
+header{
+    background-color: #EDEDED;
+    height: 97px;
+    text-align: center;
+}
+header img{
+    margin-top: 20px;
+}
+nav{
+    width: 100%;
+    height: 100px;
+    display: flex;
+    justify-content: center;
+    background-color: #ABABAB;
+}
+nav ul{
+    width: 1100px;
+    height: 100px;
+    display: flex;
+    justify-content: space-between;
+}
+nav ul a{
+    display: block;
+    margin-top: 29px;
+    font-family: "din-condensed", sans-serif;
+    font-weight: 300;
+    font-style: normal; 
+    font-size: 30px;
+    letter-spacing: -0.4px;
+}
+section{
+    background-color: #ffffff;
+}
+.txtset01{
+    width: 1100px;
+    margin: 0 auto;
+    font-size: 40px;
+    letter-spacing: -0.4px;
+    font-family: 'Noto Sans KR', sans-serif; 
+    font-weight: 100;
+    text-align: center;
+    color: #000000;
+}
+.txtset02{
+    width: 1100px;
+    margin: 0 auto;
+    font-size: 30px;
+    letter-spacing: -0.4px;
+    font-family: 'Noto Sans KR', sans-serif; 
+    font-weight: 100;
+    text-align: center;
+    color: #000000;
+}
+.txt01{
+    margin-top: 150px;
+}
+.txt02{
+    margin-top: 80px;
+}
+.txt03{
+    margin-top: 30px;
+}
+
+
+/*망가콜렉션 시작*/
+.txt04{
+    margin-top: 200px;
+    margin-left: 300px;
+}
+.txt05{
+    margin-top: -605px;
+    margin-left: 1000px;
+}
+.txt06{
+    margin-top: 200px;
+    margin-left: 300px;
+}
+.txt07{
+    margin-top: -605px;
+    margin-left: 1000px;
+}
+.txt08{
+    margin-top: 200px;
+    margin-left: 300px;
+}
+.txt09{
+    margin-top: -605px;
+    margin-left: 1000px;
+}
+.txt10{
+    margin-top: 200px;
+    margin-left: 300px;
+    margin-bottom: 50px;
+}
+.txt11{
+    margin-top: -605px;
+    margin-left: 1000px;
+}
+/*망가콜렉션 끝*/
+
+/*기타 작품 시작*/
+.txtset04{
+    width: 1100px;
+    margin: 0 auto;
+    font-size: 18px;
+    letter-spacing: -0.4px;
+    font-family: 'Noto Sans KR', sans-serif; 
+    font-weight: 100;
+    text-align: center;
+    color: #000000;
+    margin-top: 30px;
+}
+.txt12{
+    margin-top: 150px;
+    margin-left: 300px;
+}
+.txt13{
+    margin-left: 50px;
+}
+.txt14{
+    margin-top: -710px;
+    margin-left: 1000px;
+}
+.txt15{
+    margin-left: 760px;
+}
+.txt16{
+    margin-top: 200px;
+    margin-left: 300px;
+}
+.txt17{
+    margin-left: 50px;
+}
+.txt18{
+    margin-top: -700px;
+    margin-left: 1000px;
+}
+.txt19{
+    margin-top: 20px;
+    margin-left: 760px;
+}
+.txt20{
+    margin-top: 200px;
+    margin-left: 300px;
+}
+.txt21{
+    margin-left: 50px;
+}
+.txt22{
+    margin-top: -710px;
+    margin-left: 1000px;
+}
+.txt23{
+    margin-top: 20px;
+    margin-left: 800px;
+}
+.txt24{
+    margin-top: 200px;
+    margin-left: 300px;
+}
+.txt25{
+    margin-top: -606px;
+    margin-left: 1000px;
+}
+.txt26{
+    margin-left: 400px;
+    margin-bottom: 150px;
+}
+
+/*기타 작품 끝*/
+
+
+footer{
+    width: 100%;
+    height: 60px;
+    background-color: #DBDBDB;
+    display: flex;
+    justify-content: right;
+    font-size: 18px;
+    
+}
+.footer{
+    width: 1100px;
+    height: 60px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
